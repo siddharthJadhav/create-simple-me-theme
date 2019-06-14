@@ -4,6 +4,10 @@ body {
   color: #f5f6f7;
 }
 
+p {
+  font-size: 16px;
+}
+
 .bg-1 {
   background-color: #1abc9c;
   color: #ffffff;
@@ -18,4 +22,23 @@ nav {
 
 .margin-bottom {
   margin-bottom: 45px;
+}
+
+.container-fluid {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.bg-2 {
+  background-color: #474e5d;
+  color: #ffffff;
+}
+
+.bg-3 {
+  background-color: #ffffff;
+  color: #555555;
+}
+
+.img-width {
+  width: 100%;
 }
